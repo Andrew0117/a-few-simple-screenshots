@@ -35,3 +35,4 @@ Screenshots
 ![Main form](https://github.com/Andrew0117/a-few-simple-screenshots/blob/af018392a26366e44eafc6b413164b40ec2e2cdb/swing/Main%20form.png)
 
 ![Select Task](https://github.com/Andrew0117/a-few-simple-screenshots/blob/af018392a26366e44eafc6b413164b40ec2e2cdb/swing/Select%20Task.png)
+![Select Task](https://github.com/Andrew0117/a-few-simple-screenshots/blob/6b0f3f09e8ca3a06b12f697a4539adaf31f73ed8/swing/Change%20photos.png)
