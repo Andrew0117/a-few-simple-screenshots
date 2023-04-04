@@ -35,4 +35,6 @@ Screenshots
 ![Main form](https://github.com/Andrew0117/a-few-simple-screenshots/blob/af018392a26366e44eafc6b413164b40ec2e2cdb/swing/Main%20form.png)
 
 ![Select Task](https://github.com/Andrew0117/a-few-simple-screenshots/blob/af018392a26366e44eafc6b413164b40ec2e2cdb/swing/Select%20Task.png)
-![Select Task](https://github.com/Andrew0117/a-few-simple-screenshots/blob/6b0f3f09e8ca3a06b12f697a4539adaf31f73ed8/swing/Change%20photos.png)
+![Change%20photos](https://github.com/Andrew0117/a-few-simple-screenshots/blob/6b0f3f09e8ca3a06b12f697a4539adaf31f73ed8/swing/Change%20photos.png)
+![Swing%20Report](https://github.com/Andrew0117/a-few-simple-screenshots/blob/2b7f6ec7949eccf9e79ee0cda28ca9f827b7a444/swing/Swing%20Report.png)
+![Find%20a%20roster](https://github.com/Andrew0117/a-few-simple-screenshots/blob/2b7f6ec7949eccf9e79ee0cda28ca9f827b7a444/swing/Find%20a%20roster.png)
