@@ -23,6 +23,10 @@ Screenshots
 
 ![SamplePageWorkWithData3](https://github.com/Andrew0117/a-few-simple-screenshots/blob/af018392a26366e44eafc6b413164b40ec2e2cdb/web/SamplePageWorkWithData3.png)
 
+![SamplePageWorkWithData3](https://github.com/Andrew0117/a-few-simple-screenshots/blob/22fef606cb12cfb0afed9b256d4111b6a69e1fa3/web/main-page.png)
+
+![SamplePageWorkWithData3](https://github.com/Andrew0117/a-few-simple-screenshots/blob/22fef606cb12cfb0afed9b256d4111b6a69e1fa3/web/add-dialog.png)
+
 * Swing Desktop
 ![Admittance](https://github.com/Andrew0117/a-few-simple-screenshots/blob/af018392a26366e44eafc6b413164b40ec2e2cdb/swing/Admittance.png)
 
