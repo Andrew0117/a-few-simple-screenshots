@@ -27,6 +27,8 @@ Screenshots
 
 ![SamplePageWorkWithData3](https://github.com/Andrew0117/a-few-simple-screenshots/blob/22fef606cb12cfb0afed9b256d4111b6a69e1fa3/web/add-dialog.png)
 
+![SamplePageWorkWithData3](https://github.com/Andrew0117/a-few-simple-screenshots/blob/b2fdb14e0409b9a53a8679197deead370898851a/web/Graph%20traffic%20web.png)
+
 * Swing Desktop
 ![Admittance](https://github.com/Andrew0117/a-few-simple-screenshots/blob/af018392a26366e44eafc6b413164b40ec2e2cdb/swing/Admittance.png)
 
