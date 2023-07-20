@@ -27,6 +27,8 @@ Screenshots
 
 ![SamplePageWorkWithData3](https://github.com/Andrew0117/a-few-simple-screenshots/blob/22fef606cb12cfb0afed9b256d4111b6a69e1fa3/web/add-dialog.png)
 
+![SamplePageWorkWithData3](https://github.com/Andrew0117/a-few-simple-screenshots/blob/71bbb54c31ec7e30fa5d6bdea34519ed68bf5853/web/Tenders.png)
+
 ![SamplePageWorkWithData3](https://github.com/Andrew0117/a-few-simple-screenshots/blob/8a1680847a50a44644e34fd08d59cea087a17237/web/Graph%20traffic%20web.png)
 
 * Swing Desktop
