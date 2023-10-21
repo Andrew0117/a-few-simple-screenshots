@@ -32,7 +32,7 @@ Screenshots
 ![SamplePageWorkWithData3](https://github.com/Andrew0117/a-few-simple-screenshots/blob/8a1680847a50a44644e34fd08d59cea087a17237/web/Graph%20traffic%20web.png)
 
 * Swing Desktop
-![Admittance](https://github.com/Andrew0117/a-few-simple-screenshots/blob/af018392a26366e44eafc6b413164b40ec2e2cdb/swing/Admittance.png)
+![Admittance](https://github.com/Andrew0117/a-few-simple-screenshots/blob/623d82db34180e085b31ddd81073b80c1cd81554/swing/Admittance.png)
 
 ![Card index of books with finding](https://github.com/Andrew0117/a-few-simple-screenshots/blob/main/swing/Card%20index%20of%20books%20with%20finding.png?raw=true)
 
