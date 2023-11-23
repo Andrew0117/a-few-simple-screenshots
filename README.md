@@ -30,9 +30,10 @@ Screenshots
 ![SamplePageWorkWithData3](https://github.com/Andrew0117/a-few-simple-screenshots/blob/71bbb54c31ec7e30fa5d6bdea34519ed68bf5853/web/Tenders.png)
 
 ![SamplePageWorkWithData3](https://github.com/Andrew0117/a-few-simple-screenshots/blob/8a1680847a50a44644e34fd08d59cea087a17237/web/Graph%20traffic%20web.png)
-
+* Html Canvas
+![SamplePageWorkWithData3](https://github.com/Andrew0117/a-few-simple-screenshots/blob/a746f8cddbf88a191b02e407fe8610af232e806f/html%20canvas/scheme.png)
 * Swing Desktop
-![Admittance](https://github.com/Andrew0117/a-few-simple-screenshots/blob/623d82db34180e085b31ddd81073b80c1cd81554/swing/Admittance.png)
+![scheme](https://github.com/Andrew0117/a-few-simple-screenshots/blob/623d82db34180e085b31ddd81073b80c1cd81554/swing/Admittance.png)
 
 ![Card index of books with finding](https://github.com/Andrew0117/a-few-simple-screenshots/blob/main/swing/Card%20index%20of%20books%20with%20finding.png?raw=true)
 
