@@ -39,7 +39,7 @@ Screenshots
 
 ![Card index of books](https://github.com/Andrew0117/a-few-simple-screenshots/blob/9b3d79813bcf4c68c8a1aa89d2b1f62b87fe17a5/swing/Card%20index%20of%20books.png)
 
-![Card index of comers](https://github.com/Andrew0117/a-few-simple-screenshots/blob/main/swing/Card%20index%20of%20comers.png?raw=true)
+![Card index of comers](https://github.com/Andrew0117/a-few-simple-screenshots/blob/e40f31da041b54c032cb9ef800070810ec14d1aa/swing/Card%20index%20of%20comers.png)
 
 ![Main form](https://github.com/Andrew0117/a-few-simple-screenshots/blob/af018392a26366e44eafc6b413164b40ec2e2cdb/swing/Main%20form.png)
 
